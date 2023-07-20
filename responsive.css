@@ -1,0 +1,17 @@
+@media screen and (max-width:400px) {
+    .nav-container{
+        flex-direction: column;
+    }
+
+    .nav-items-container{
+        flex-direction: column;
+    }
+    .nav-items-container a{
+        text-decoration: none;
+        color: black;
+
+
+
+    }
+        
+}
